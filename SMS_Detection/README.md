@@ -11,7 +11,6 @@ This project uses Machine Learning to classify SMS messages as **Spam** or **Ham
 
 ## Technologies Used
 - Python
-- Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib
